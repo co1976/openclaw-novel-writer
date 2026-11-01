@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 检测脚本缓存 / 报告
+.cli_cache/
+*.db
+*.sqlite3
+report_*.html
+
+# 项目产出（正文与设定属于作者私有内容，不入库）
+正文/
+拆文库/
+小说项目/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 环境与密钥
+.env
+*.key
