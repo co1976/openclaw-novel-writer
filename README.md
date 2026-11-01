@@ -38,7 +38,7 @@
 **OpenClaw**
 
 ```bash
-git clone https://github.com/<your-name>/novel-writer-skills.git \
+git clone https://github.com/co1976/openclaw-novel-writer.git \
   ~/.openclaw/workspace/skills/novel-writer
 ```
 
@@ -72,7 +72,8 @@ git clone https://github.com/<your-name>/novel-writer-skills.git \
 │   ├── 深度审读指南.md
 │   ├── 分发台账规范.md
 │   └── usage_examples.md
-└── scripts/                 # 一致性 / 节奏 / 钩子 / 伏笔检测
+├── scripts/                 # 一致性 / 节奏 / 钩子 / 伏笔检测（21 个）
+└── tests/                   # 单元测试（20 个）
 ```
 
 ## 检测脚本
